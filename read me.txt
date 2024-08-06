@@ -1,0 +1,1 @@
+Q 9 answer is in report 8 that every st_id is connected to report 5 st_id t show his grades
